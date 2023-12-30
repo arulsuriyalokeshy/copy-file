@@ -17,8 +17,8 @@ Copy the content of text1.txt file to copy.txt using write function
 ## PROGRAM:
 ```python
 Program for copying the contents from one file to another file
-Developed by: B KRISHNAKANTH
-Register Number: 212223230109
+Developed by: Suriya praksh.S
+Register Number:23013599
 
 with open("text1.txt",'r') as fp:
     msg1=fp.read()
